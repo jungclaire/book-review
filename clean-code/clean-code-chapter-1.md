@@ -1,5 +1,3 @@
-# Clean Code
-
 ## Chapter 1. 클린코드
 <img width="351" alt="스크린샷 2021-10-10 오후 10 57 04" src="https://user-images.githubusercontent.com/83348294/136698808-097349bb-9013-42eb-acf1-4d31b02714e6.png">
 
