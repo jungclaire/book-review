@@ -6,4 +6,6 @@
 [Chapter 02: 의미 있는 이름](clean-code/clean-code-chapter-2.md)  
 [Chapter 03: 함수](clean-code/clean-code-chapter-3.md)  
 [Chapter 04: 주석](clean-code/clean-code-chapter-4.md)  
+
+#
 실습은 [clean-code-training repository](https://github.com/jungclaire/clean-code-training)에서 진행합니다.
