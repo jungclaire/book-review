@@ -22,3 +22,5 @@ Unit Test는 각 컴포넌트를 고립시켜 테스트하기 때문에 컴포�
 - E2E Test: End to End Test. 실제 유저의 시나리오대로 네트워크를 통해 Endpoint를 호출해 테스트한다.
 
 ### Unit Test 작성
+#### JUnit test
+
