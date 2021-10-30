@@ -13,4 +13,4 @@
 [Chapter 09: 단위 테스트](clean-code/clean-code-chapter-9.md)
 
 #
-실습은 [clean-code-training repository](https://github.com/jungclaire/clean-code-training)에서 진행합니다.
+clean-code 실습은 [clean-code-training repository](https://github.com/jungclaire/clean-code-training)에서 진행합니다.
