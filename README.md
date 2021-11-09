@@ -13,7 +13,6 @@
 [Chapter 09: 단위 테스트](clean-code/clean-code-chapter-9.md)  
 [Chapter 10: 클래스](clean-code/clean-code-chapter-10.md)  
 [Chapter 11: 시스템](clean-code/clean-code-chapter-11.md)  
-[Chapter 12: 창발성](clean-code/clean-code-chapter-12.md)
 
 #
 clean-code 실습은 [clean-code-training repository](https://github.com/jungclaire/clean-code-training)에서 진행합니다.
