@@ -15,6 +15,7 @@
 [Chapter 11: 시스템](clean-code/clean-code-chapter-11.md)  
 [Chapter 12: 창발성](clean-code/clean-code-chapter-12.md)  
 [Chapter 13: 동시성](clean-code/clean-code-chapter-13.md)  
+[Chapter 14: 점진적인 개선](clean-code/clean-code-chapter-14.md)  
 
 #
 clean-code 실습은 [clean-code-training repository](https://github.com/jungclaire/clean-code-training)에서 진행합니다.
