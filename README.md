@@ -16,6 +16,7 @@
 [Chapter 12: 창발성](clean-code/clean-code-chapter-12.md)  
 [Chapter 13: 동시성](clean-code/clean-code-chapter-13.md)  
 [Chapter 14: 점진적인 개선](clean-code/clean-code-chapter-14.md)  
+[Chapter 15: JUnit 들여다보기, Chapter 16: SerialDate 리팩토링](clean-code/clean-code-chapter-15.md)  
 
 #
 clean-code 실습은 [clean-code-training repository](https://github.com/jungclaire/clean-code-training)에서 진행합니다.
